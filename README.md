@@ -1,6 +1,6 @@
 <h1 align="center">Zaw Lin Htike</h1>
 
-**Welcome from my Github page**🤖👾🎃
+**Welcome from my Github page**
 <hr/>
 <h2>About me</h2>
 
