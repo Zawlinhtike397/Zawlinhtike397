@@ -4,8 +4,7 @@
 <hr/>
 <h2>About me</h2>
 
- - Html
- - Css
+ - A student who is learning Flutter.
 
 ![Pyae Sone Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zawlinhtike397&show_icons=true&theme=tokyonight)
 
